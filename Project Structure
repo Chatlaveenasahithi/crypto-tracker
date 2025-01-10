@@ -1,0 +1,19 @@
+crypto-tracker/
+├── node_modules/
+├── src/
+│   ├── jobs/
+│   │   └── fetchCryptoData.js
+│   ├── controllers/
+│   │   ├── statsController.js
+│   │   └── deviationController.js
+│   ├── routes/
+│   │   ├── statsRoutes.js
+│   │   └── deviationRoutes.js
+│   ├── models/
+│   │   └── cryptoModel.js
+│   ├── utils/
+│   │   └── dbConnection.js
+│   └── app.js
+├── .env
+├── package.json
+└── README.md
