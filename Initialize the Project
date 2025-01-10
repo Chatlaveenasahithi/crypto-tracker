@@ -1,0 +1,4 @@
+mkdir crypto-tracker
+cd crypto-tracker
+npm init -y
+npm install express mongoose axios dotenv node-cron body-parser
